@@ -43,3 +43,6 @@ expected. You can run the application on your local machine by running the
 command streamlit run BizCardX.py in the terminal, where BizCardX.py is the name of
 your Streamlit application file.
 
+## Conclusion:
+
+BizCardX provides an effective solution for business card data extraction and management. Its integration of EasyOCR, MySQL, and Streamlit offers a user-friendly experience, making it adaptable for various use cases. Follow the steps outlined in this README to get started and enhance your business card information organization in the digital era.
